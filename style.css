@@ -7,13 +7,18 @@ body {
 
 header {
     border: 2px solid gray;
-    padding: 20 20;
+    padding: 20px 20px;
 }
 
 h1 {
     text-align: center;
 }
 
-h3 {
+h2 {
     text-decoration: underline;
+}
+
+p {
+    text-align: center;
+    
 }
