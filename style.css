@@ -3,11 +3,22 @@
 body {
     font-family: 'Montserrat', sans-serif;
     color: rgb(66, 65, 65);
+    letter-spacing: 2px;
 }
 
 header {
     border: 2px solid gray;
     padding: 20px 20px;
+    height: 115px;
+}
+
+header > img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border:1px solid black;
+    float: left;
+    
 }
 
 h1 {
@@ -20,5 +31,5 @@ h2 {
 
 p {
     text-align: center;
-    
+   
 }
