@@ -84,8 +84,20 @@ div p {
 
 }
 
+/*
+picture {
+
+    width: 100px;
+    height: 300px;
+    text-align: right;
+}
+*/
+
 span {
-    margin-left: 50px;
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 25px;
 }
 /*footer*/
 
@@ -107,3 +119,4 @@ footer a {
     float: right;
     color: white;
 }
+
