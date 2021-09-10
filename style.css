@@ -84,14 +84,7 @@ div p {
 
 }
 
-/*
-picture {
-
-    width: 100px;
-    height: 300px;
-    text-align: right;
-}
-*/
+/*opening hours, address and image*/
 
 span {
     vertical-align: top;
@@ -99,6 +92,7 @@ span {
     width: 30%;
     padding-left: 25px;
 }
+
 /*footer*/
 
 footer {
