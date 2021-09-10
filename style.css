@@ -37,10 +37,9 @@ h2 {
 
 section img {
     width: 250px;
-    height: 300px;
+    height: auto;
     border: 2px solid gray;
-    margin-top: 50px;
-    margin-left: 30px;
+    
 }
 
 div {
