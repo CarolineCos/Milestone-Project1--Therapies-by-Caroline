@@ -77,3 +77,16 @@ div p {
     margin-right: 20px
 
 }
+
+/*footer*/
+
+footer {
+    height: 150px;
+   
+}
+
+footer a {
+    margin:5px;
+    padding: 1%;
+
+}
