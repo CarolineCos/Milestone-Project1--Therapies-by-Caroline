@@ -69,12 +69,6 @@ section img {
     
 }
 
-/*
-div p {
-    text-align: center;
-       
-}
-*/
 .about{
     text-align: center;
     background-color: #b8f5c3;
@@ -99,12 +93,13 @@ div p {
     padding-bottom: 10px;
      padding-top: 20px;
      margin-bottom: 20px;
+     color: black;
     
 }
 
 .text-transfor-background {
     background-color: white;
-    opacity: 0.65;
+    opacity: 0.70;
 }
 
 
@@ -119,9 +114,26 @@ div p {
     background-size: 100% auto; 
 
 }
-
-
 /*opening hours, address and image*/
+
+.info_display {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-left: 25px;
+    font-size: small;
+}
+
+h2 .info_display {
+    font-size: small;
+}
+
+.info-display-picture {
+    max-width: 30%;
+    height: auto;
+}
+
+
 
 span {
     vertical-align: top;
