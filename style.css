@@ -152,6 +152,8 @@ span {
     padding-left: 25px;
 }
 
+/*contact us*/
+
 form{
     vertical-align: top;
     width: fit-content;
@@ -166,7 +168,7 @@ form div{
     vertical-align: top;
     display: inline-block;
     padding-left: 100px;
-    margin-bottom: 100px
+    margin-bottom: 100px;
 
 }
 
@@ -205,6 +207,7 @@ div a:hover {
 
 footer {
     height: 80px;
+    width: 100%;
    font-size: small;
    background-color: #b4b8b4;
     color: #ffffff;
@@ -234,10 +237,11 @@ footer a {
 
 @media screen and (max-width: 1200px) {
     .info_display{
-        width: 70%;
+        width: 80%;
         height: auto;
         margin: 0 auto;
         text-align: center;
+        padding: 0 0 ;
     
     }
     table{
@@ -282,5 +286,32 @@ footer a {
     }
 .about{
     line-height: 1.3;
+}
+
+form {
+    width: 65%;
+    height: auto;
+}
+.insurance {
+    display: block;
+    padding-left: 0;
+    margin-bottom: 10px;
+    width: 100%;
+    }
+
+footer {
+    width: 100%;
+    float: none;
+    text-align: center;
+}
+footer p {
+    text-align: center;
+    float: none;
+}
+
+footer a {
+    float:none;
+    text-align: center;
+
 }
 }
