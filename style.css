@@ -291,6 +291,16 @@ footer a {
 form {
     width: 65%;
     height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+form fieldset {
+    width: 100%;
+
+}
+textarea {
+    max-width: 95%;
 }
 .insurance {
     display: block;
@@ -298,6 +308,11 @@ form {
     margin-bottom: 10px;
     width: 100%;
     }
+
+.insurance-box{
+    width: 70%;
+    height: auto;
+}
 
 footer {
     width: 100%;
