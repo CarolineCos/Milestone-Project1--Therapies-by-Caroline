@@ -130,6 +130,15 @@ span {
     padding-left: 25px;
 }
 
+form{
+    vertical-align: top;
+    width: fit-content;
+}
+
+form div{
+    margin-bottom: 10px;
+}
+
 /*footer*/
 
 footer {
