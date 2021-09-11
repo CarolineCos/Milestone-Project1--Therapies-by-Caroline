@@ -2,9 +2,10 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    color: rgb(66, 65, 65);
+    color: #4a4a4f;
     letter-spacing: 2px;
    line-height: 1.4;
+   font-weight: bold;
 }
 
 header {
@@ -54,7 +55,7 @@ p {
 }
 
 section img {
-    width: 200px;
+    max-width:  200px;
     height: auto;
     border: 4px solid white;
     
@@ -128,8 +129,8 @@ h2 .info_display {
     font-size: small;
 }
 
-.info-display-picture {
-    max-width: 30%;
+div picture img{
+    max-width: 300px;
     height: auto;
 }
 
@@ -151,6 +152,46 @@ form div{
     margin-bottom: 10px;
 }
 
+.insurance {
+
+    vertical-align: top;
+    display: inline-block;
+    padding-left: 100px;
+    margin-bottom: 100px
+
+}
+
+.insurance-box {
+    border: 2px solid gray ;
+    width: 500px;
+    height: fit-content;
+    margin-left: 5px;
+}
+
+.insurance p{
+    text-align: center;
+}
+
+.logos {
+    text-align: center;
+    margin-left: 10px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+
+
+div a {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
+
+div a:hover {
+    background-color: #b8f5c3;
+}
+
 /*footer*/
 
 footer {
@@ -167,11 +208,9 @@ footer p {
     text-align: justify;
     vertical-align: bottom;
     float: left;
-    clear: left;
-    
-    
-    
+    clear: left; 
 }
+
 footer a {
     margin:5px;
     padding: 1%;
