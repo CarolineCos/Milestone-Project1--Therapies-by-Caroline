@@ -299,8 +299,8 @@ form fieldset {
     width: 100%;
 
 }
-textarea {
-    max-width: 95%;
+form fieldset textarea {
+    max-width: 60%;
 }
 .insurance {
     display: block;
@@ -312,6 +312,13 @@ textarea {
 .insurance-box{
     width: 70%;
     height: auto;
+}
+
+.logos {
+    text-align: center;
+    margin-left: 0 ;
+    width: auto;
+    margin-bottom: 10px;
 }
 
 footer {
