@@ -4,3 +4,7 @@ Therapies by Caroline is a website designed to provide the public about the serv
 
 It provides opening times and treatments offered
 
+medias
+screenshot
+
+Im sorry i didn't realise how much work the readme was going to be
