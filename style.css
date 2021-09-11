@@ -32,6 +32,16 @@ nav {
     color: gray;  
 }
 
+nav a {
+    background-color: #b4b8b4 ;
+    color:#ffffff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: #b8f5c3;
+}
+
 /*about*/
 
 h2 {
@@ -100,7 +110,7 @@ footer {
    font-size: small;
    background-color: #b4b8b4;
     color: #ffffff;
-   
+       
 }
 
 footer p {
