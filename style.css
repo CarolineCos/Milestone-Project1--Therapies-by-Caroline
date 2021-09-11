@@ -30,7 +30,7 @@ h1 {
 nav {
     float: right;
     margin-right: 20px;
-    color: gray;  
+    color:  #4a4a4f;  
 }
 
 nav a {
@@ -121,6 +121,7 @@ section img {
     vertical-align: top;
     display: inline-block;
     width: 30%;
+    height: auto;
     padding-left: 25px;
     font-size: small;
 }
