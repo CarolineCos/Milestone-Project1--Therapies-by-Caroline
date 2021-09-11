@@ -87,6 +87,9 @@ section img {
     border: 1.5px solid gray;
     margin-left: 20px;
     margin-right: 20px;
+    height: 300px;
+    width: auto;
+    text-align: center;
     }
 
 .text-treatment  {
@@ -95,6 +98,7 @@ section img {
      padding-top: 20px;
      margin-bottom: 20px;
      color: black;
+     
     
 }
 
@@ -103,6 +107,9 @@ section img {
     opacity: 0.70;
 }
 
+section ul li{
+    list-style: none;
+}
 
 
 .treatment-style {
@@ -113,6 +120,7 @@ section img {
     background-color: #b8f5c3;
     background-repeat: no-repeat;
     background-size: 100% auto; 
+    
 
 }
 /*opening hours, address and image*/
@@ -221,3 +229,31 @@ footer a {
     font-size: smaller;
 }
 
+/*media queries*/
+
+@media screen and (max-width: 1200px) {
+    .info_display{
+        width: 70%;
+        height: auto;
+        margin: 0 auto;
+        text-align: center;
+    
+    }
+    table{
+        width: 80%;
+        height: auto;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .treatments{
+        width: 80%;
+        height: auto;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .treatment-style{
+
+    }
+}
