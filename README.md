@@ -18,7 +18,13 @@ Therapies by Caroline is a website designed to provide the public with informati
  
  ![About page](images/about_page.png)
 
- * Treatments Section
+* Treatments Section
    * Provides an overview on the treatments offered
 
   ![Treatments section](images/treatments_section.png)
+
+* Information Section
+  * Provides information on opening times, address and an image of the exterior of the business
+  * This section will help the user locate the business and will keep them informed on the opening hours which can be changed if needed
+
+  ![Information Section](images/info_section.png)
