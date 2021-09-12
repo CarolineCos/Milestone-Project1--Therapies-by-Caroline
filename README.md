@@ -9,4 +9,4 @@ Therapies by Caroline is a website designed to provide the public with informati
 * Navigation Bar
  * This feature is across all three pages with links to each page, About Us, Treatments and Contact us and is fully responsive.
  * It allows the user to easily navigate between pages without the need to user the back and next keys.
- 
+![Navigation bar](images/navigation-bar.png)
