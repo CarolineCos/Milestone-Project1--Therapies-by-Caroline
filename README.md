@@ -49,3 +49,9 @@ Therapies by Caroline is a website designed to provide the public with informati
 
     ![Contact and Insurance](images/contact_and_insurance.png)
     ![Contact and Insurance Two](images/contact_and_insurance_two.png)
+
+## Features left to Implement
+
+
+I would like to add a google map for the business and also a gallery of the treamtents of offer. I would also like to add additional information in the therapies such as Thai Masssage or Reflexology and special needs.
+
