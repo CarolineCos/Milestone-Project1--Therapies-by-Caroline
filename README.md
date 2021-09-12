@@ -10,27 +10,36 @@ Therapies by Caroline is a website designed to provide the public with informati
   * This feature is across all three pages with links to each page, About Us, Treatments and Contact us and is fully responsive.
   * It allows the user to easily navigate between pages without the need to use the back and next arrows.
 
-  ![Navigation bar](images/navigation-bar.png)
+    ![Navigation bar](images/navigation-bar.png)
 
 * Landing Page
   * The first image that the user will see is that of the Therapist. The therapist is in a uniform and is smiling. This represents a professional but approachable business.
   * The text below the image summarises the therapists experience and what a client may expect from a treatment.
  
- ![About page](images/about_page.png)
+     ![About page](images/about_page.png)
 
 * Treatments Section
    * Provides an overview on the treatments offered
 
-  ![Treatments section](images/treatments_section.png)
+        ![Treatments section](images/treatments_section.png)
 
 * Information Section
   * Provides information on opening times, address and an image of the exterior of the business
   * This section will help the user locate the business and will keep them informed on the opening hours which can be changed if needed
 
-  ![Information Section](images/info_section.png)
+    ![Information Section](images/info_section.png)
 
 * Footer
   * This section provides links to the businesses social media. This is useful to allow the user to stay in touch with Therapies by Caroline
 
-  ![Footer](images/footer.png)
+    ![Footer](images/footer.png)
 
+* Treatments Page
+  * The therapies offered are present clearly with pricing and an little bit of information on the individual treatments.
+  * It helps the user to easily determine which treatment to avail of.
+  * The background image is of daisies on a soft grey towel, this gives a calming and relaxing feel to the service as daises represent delicate innocence. 
+
+    ![Treatments Page](images/treatments-one.png)
+    ![Treatments page two](images/treatments-two.png)
+
+* Contact Page
