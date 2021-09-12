@@ -43,3 +43,9 @@ Therapies by Caroline is a website designed to provide the public with informati
     ![Treatments page two](images/treatments-two.png)
 
 * Contact Page
+  * The contact page has a contact form so that a user may request information on the treatments on offer.
+  * There is a drop down menu so that the user can choose which treatment interest them.
+  * There is also links to the associations the therapist is a member of and the insurance partners that cover treatments on offer.
+
+    ![Contact and Insurance](images/contact_and_insurance.png)
+    ![Contact and Insurance Two](images/contact_and_insurance_two.png)
