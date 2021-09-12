@@ -2,7 +2,7 @@
 
 Therapies by Caroline is a website designed to provide the public with information about the services offered. It should be easy to use and there will be information on the type of treatments and therapies on offer. It will included opening times, address and contact information including phone number and contact form. It will also introduce the Therapist to the clients in the About us section. It will be a simple and elegant website that isn't too busy so that it will have a calming effect for the potiental client.
 
-![Am I responsive](images/Screenshot-of-am-I-responsive.png)    
+   ![Am I responsive](images/Screenshot-of-am-I-responsive.png)    
 
 ## Features
 
@@ -10,7 +10,7 @@ Therapies by Caroline is a website designed to provide the public with informati
   * This feature is across all three pages with links to each page, About Us, Treatments and Contact us and is fully responsive.
   * It allows the user to easily navigate between pages without the need to use the back and next arrows.
 
-![Navigation bar](images/navigation-bar.png)
+  ![Navigation bar](images/navigation-bar.png)
 
 * Landing Page
   * The first image that the user will see is that of the Therapist. The therapist is in a uniform and is smiling. This represents a professional but approachable business.
@@ -28,3 +28,9 @@ Therapies by Caroline is a website designed to provide the public with informati
   * This section will help the user locate the business and will keep them informed on the opening hours which can be changed if needed
 
   ![Information Section](images/info_section.png)
+
+* Footer
+  * This section provides links to the businesses social media. This is useful to allow the user to stay in touch with Therapies by Caroline
+
+  ![Footer](images/footer.png)
+
