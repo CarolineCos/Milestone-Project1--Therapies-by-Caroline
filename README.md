@@ -1,4 +1,6 @@
-# [Therapies by Caroline](https://carolinecos.github.io/Milestone-Project1--Therapies-by-Caroline/)
+# Therapies by Caroline
+
+[View the live project here](https://carolinecos.github.io/Milestone-Project1--Therapies-by-Caroline/)
 
 Therapies by Caroline is a website designed to provide the public with information about the services offered. It should be easy to use and there will be information on the type of treatments and therapies on offer. It will included opening times, address and contact information including phone number and contact form. It will also introduce the Therapist to the clients in the About us section. It will be a simple and elegant website that isn't too busy so that it will have a calming effect for the potiental client.
 
@@ -57,4 +59,12 @@ I would like to add a google map for the business and also a gallery of the trea
 
 ## Testing
 
+* HTML
+  * During the development of the website I passed the website the the offical W3C validator.
+  * A few errors were returned in relation to h* heading being used in the wrong place. Which i rectified by amending the css file and modifing the font-size to "small".
+  * The most persistent error was a stray script which I had placed in the html section instead of the body. I used the CI Love Running Code to compare it with this project.
+  * Doing this returned no errors on the [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcarolinecos.github.io%2FMilestone-Project1--Therapies-by-Caroline%2F)
+
+* CSS
+  * No errors were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcarolinecos.github.io%2FMilestone-Project1--Therapies-by-Caroline%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
