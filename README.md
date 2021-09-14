@@ -86,8 +86,16 @@ The goal of the site is to provide information of the business and therapies on 
 
 ## Features left to Implement
 
+There are a number of features that I would like to add in future.
+ * Google map
+ * Gallery of images 
+ * Additional pages to profide a more indepth information on individual therapies such as Thai Massage
+ * A booking form with available appointment times
+ * A Testimonial page with customers reviews
 
-I would like to add a google map for the business and also a gallery of the treamtents of offer. I would also like to add additional information in the therapies such as Thai Masssage or Reflexology and special needs.
+## Languages
+   * [HTML5](https://en.wikipedia.org/wiki/HTML5)
+   * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## Testing
 
