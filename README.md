@@ -26,8 +26,16 @@ The goal of the site is to provide information of the business and therapies on 
 
 ### Design
 
+* Colour choices for the project was green, white and grey.
+* This was chosen to create a calming space as its simple, clean and warm
+* The font used was Monserrat as sans serif as a back up. Fonts from [Google fonts](https://fonts.google.com/)
 
+### Layout
+*  I used Balsamic wireframes to design the layout
 
+  * ![Wireframe About](images/wireframe-about.png)
+  * ![Wireframe Treatments](images/wireframe-treatment.png)
+  * ![Wireframe Contact](images/wireframe-contact.png)
 
 
 ## Features
