@@ -97,6 +97,14 @@ There are a number of features that I would like to add in future.
    * [HTML5](https://en.wikipedia.org/wiki/HTML5)
    * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
+## Credits
+
+   * [Google fonts](https://fonts.google.com/)
+      I used Monserrat which I got from Google Fonts
+   * [Font Awesome](https://fontawesome.com/)
+      I used Font Awesome for social media icons
+   
+
 ## Testing
 
 * HTML
