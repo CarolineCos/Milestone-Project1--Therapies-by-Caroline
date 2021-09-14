@@ -4,7 +4,31 @@
 
 Therapies by Caroline is a website designed to provide the public with information about the services offered. It should be easy to use and there will be information on the type of treatments and therapies on offer. It will included opening times, address and contact information including phone number and contact form. It will also introduce the Therapist to the clients in the About us section. It will be a simple and elegant website that isn't too busy so that it will have a calming effect for the potiental client.
 
-   ![Am I responsive](images/Screenshot-of-am-I-responsive.png)    
+   ![Am I responsive](images/Screenshot-of-am-I-responsive.png)  
+   
+## User Experience
+
+### Site Goals
+
+The goal of the site is to provide information of the business and therapies on offer.
+
+### First time visitor
+
+* I want to be able to find out about the Therapist and if their experience and training will suit my needs.
+* I want to see what treatments are on offer and how much they cost.
+* I want to know where the business is and how to contact them.
+* I want to know if the treatments are covered by my insurance
+
+### As a returning visitor
+
+* I would like to see if the opening times have changed.
+* I would also like to know if there are new treatments available.
+
+### Design
+
+
+
+
 
 ## Features
 
